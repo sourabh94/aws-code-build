@@ -7,7 +7,7 @@ Update version in the following line for terraform package installation, in this
 curl -s -qL -o terraform_install.zip https://releases.hashicorp.com/terraform/1.3.9/terraform_1.3.9_linux_amd64.zip
 ```
 
-We can pass environment variable in code build, $TF_CMD to apply or destroy changes :
+We can pass environment variable in code build, TF_CMD to apply or destroy changes :
 ```
 terraform $TF_CMD --auto-approve
 ```
