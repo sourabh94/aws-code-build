@@ -1,2 +1,3 @@
 # aws-code-build
-For consolidating various uses of buildspec.yml file
+For consolidating various use cases of buildspec.yml file
+
