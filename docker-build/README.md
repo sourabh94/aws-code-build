@@ -1,4 +1,4 @@
-# Building docker images
+# Building docker images with AWS CodeBuild
 For building docker images using AWS CodeBuild
 
 update the account-id and repository-name in following lines : 
