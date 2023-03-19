@@ -8,3 +8,4 @@ Docker build : building docker images and pushing them to ECR repository.
 
 Terraform build : terraform apply or destroy using code build.
 
+CloudFormation build : In Progress, not yet uploaded.
