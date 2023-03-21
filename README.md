@@ -8,4 +8,5 @@ Docker build : building docker images and pushing them to ECR repository.
 
 Terraform build : terraform apply or destroy using code build.
 
-CloudFormation Validation : In Progress, not yet uploaded.
+CloudFormation Validation : pre deployment validation for syntax and security checks.
+
